@@ -1,5 +1,5 @@
 # A React Application built to visualise different sorting algorithms
-This project visualuses three sorting algorithms namely Merge Sort, Quick Sort, Insertion Sort
+This project visualises three sorting algorithms namely Merge Sort, Quick Sort, Insertion Sort
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
